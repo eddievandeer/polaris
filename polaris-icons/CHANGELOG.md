@@ -1,5 +1,21 @@
 # Changelog
 
+## 6.0.0
+
+### Major Changes
+
+- [#6514](https://github.com/Shopify/polaris/pull/6514) [`327a73381`](https://github.com/Shopify/polaris/commit/327a73381ffb9a3f0ac3de4b76632d08070b8720) Thanks [@james-a-c](https://github.com/james-a-c)! - Add new icon `TemplateMinor`
+
+### Minor Changes
+
+- [#6457](https://github.com/Shopify/polaris/pull/6457) [`b541f5449`](https://github.com/Shopify/polaris/commit/b541f54498462ce513b9903dfcfcb966f43e0038) Thanks [@brandonlawshop](https://github.com/brandonlawshop)! - Added `StatusActiveMajor` icon
+
+### Patch Changes
+
+- [#6617](https://github.com/Shopify/polaris/pull/6617) [`305368d57`](https://github.com/Shopify/polaris/commit/305368d57745ab532063cb7370730f6e87e00632) Thanks [@alex-page](https://github.com/alex-page)! - Update component links so they no longer hit the redirect
+
+* [#6633](https://github.com/Shopify/polaris/pull/6633) [`4c0301bbb`](https://github.com/Shopify/polaris/commit/4c0301bbbb0612afaa5111fc579f52175c8b3ada) Thanks [@sambostock](https://github.com/sambostock)! - Update GitHub repo references in package.json
+
 ## 5.0.0
 
 ### Major Changes
